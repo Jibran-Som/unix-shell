@@ -7,6 +7,15 @@
 
 ---
 
+## Collaborators
+
+- **Ezana Abebe** – [GitHub](https://github.com/EzanaAbebe)
+- **Sahil Bacchus** – [GitHub](https://github.com/SahilBacchus)
+- **Jibran Somroo**  - [GitHub](https://github.com/Jibran-Som)
+
+---
+
+
 ## Overview
 
 This project implements a functional Unix-style shell in C, providing a command-line interface for executing programs, passing arguments, managing processes, and supporting command pipelines. The shell demonstrates core system programming concepts such as process creation, execution, input parsing, pipelining, and safe memory handling. It is modular, extensible, and designed as a professional portfolio project.
